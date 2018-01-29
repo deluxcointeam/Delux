@@ -1,0 +1,9 @@
+Building Deluxcoin
+
+See doc/readme-qt.rst for instructions on building Deluxcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Deluxcoin.
+
+See doc/build-*.txt for instructions on building deluxcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Deluxcoin.
